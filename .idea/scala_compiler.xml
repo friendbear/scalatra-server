@@ -2,5 +2,8 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="sbt 1" modules="scalatra-server_4023" />
+    <profile name="sbt 2" modules="scalatra-sample">
+      <option name="postfixOps" value="true" />
+    </profile>
   </component>
 </project>

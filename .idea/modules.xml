@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalatra-server_4023.iml" filepath="$PROJECT_DIR$/.idea/modules/scalatra-server_4023.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalatra-server_4023-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalatra-server_4023-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalatra-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/scalatra-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalatra-server-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalatra-server-build.iml" />
     </modules>
   </component>
 </project>
